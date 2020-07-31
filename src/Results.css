@@ -1,0 +1,11 @@
+.group {
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 10px;
+  /* justify-content: space-between; */
+}
+
+.item {
+  text-align: left;
+  margin-left: 25px;
+}
